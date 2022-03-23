@@ -42,4 +42,4 @@ You can change some parameters of the shader by editing the ```retro.hlsl``` fil
 #define CHROMATIC_SPREAD 1.3 
 ```
 
-The font and the color scheme used are available on the ```res/``` folder. To install the font, right-click it and select "Install", and it should appear on Terminal's settings. To add the color scheme, append the contents of the .json file to your configuration file, under the ```"schemes"``` key.
+The font and the color scheme used are available on the ```res/``` folder. To install the font, right-click it and select "Install", and it should appear on Terminal's settings. To add the color scheme, append the contents of the ```serendipity_midnight.json``` file to your configuration file, under the ```"schemes"``` key.
