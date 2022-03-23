@@ -1,5 +1,5 @@
 # winterm-retro-shader
-A retro/cyberpunk-style shader for Windows Terminal. This is a tweaked version from the stock [Retro shader](https://github.com/microsoft/terminal/blob/main/samples/PixelShaders/Retro.hlsl) from Windows Terminal.
+A retro/cyberpunk-style HLSL shader for Windows Terminal. This is a tweaked version of the stock [Retro shader](https://github.com/microsoft/terminal/blob/main/samples/PixelShaders/Retro.hlsl).
 
 ![Preview](docs/preview.gif)
 
